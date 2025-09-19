@@ -14,7 +14,7 @@
 ---
 
 ## 🛠️ Tecnologías y herramientas
-- **Lenguajes:** JavaScript, Python, Java  
+- **Lenguajes:** <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="">, Python, Java  
 - **Frontend:** HTML, CSS, React  
 - **Mobile:** React Native  
 - **Backend:** Node.js, Express  
