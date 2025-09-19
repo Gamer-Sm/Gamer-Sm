@@ -14,14 +14,18 @@
 ---
 
 ## 🛠️ Tecnologías y herramientas
-- **Lenguajes:** <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="">, Python, Java  
-- **Frontend:** HTML, CSS, React  
-- **Mobile:** React Native  
-- **Backend:** Node.js, Express  
-- **Bases de datos:** Firebase, MySQL, MongoDB  
-- **Otros:** Git, GitHub, VS Code, Linux  
+<span>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
----
+</span>
+<h5>Frontend: HTML, CSS, React Native </h5>
+<span>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+</span>
+
 
 ## 🌎 Conéctemos
 - 📫 **Email:** sebastianprado729@gmail.com  
