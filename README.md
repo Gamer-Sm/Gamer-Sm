@@ -4,7 +4,7 @@
 <!-- Título animado con texto negro -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=000000&center=true&vCenter=true&width=700&background=00000000&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Sebastian+Prado"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=fffff&center=true&vCenter=true&width=700&background=00000000&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Sebastian+Prado"
     alt="¡Hola! Soy Sebastian Prado (animación)" />
 </p>
 
