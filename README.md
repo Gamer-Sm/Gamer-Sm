@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Sebastian%20Prado&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=200&section=header&text=Sebastian%20Prado&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <!-- Título animado con texto negro -->
 <p align="center">
@@ -53,7 +53,7 @@
 ---
 
 <!-- Footer con animación -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&fontColor=ffffff&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=120&section=footer&fontColor=ffffff&animation=twinkling)
 
 <p align="center">
 ✨ <em>"El mejor modo de predecir el futuro es programarlo."</em> ✨
