@@ -1,69 +1,84 @@
-<!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=200&section=header&text=Sebastian%20Prado&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+<!-- Banner superior con onda y gradiente -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=220&section=header&text=Sebastian%20Prado&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-<!-- Título animado con texto negro -->
+<!-- Título con animación de typing -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=fffff&center=true&vCenter=true&width=700&background=00000000&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Sebastian+Prado"
-    alt="¡Hola! Soy Sebastian Prado (animación)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=1000&color=0D6EFD&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Sebastian+Prado;Desarrollador+Web+y+M%C3%B3vil;React+%7C+React+Native+%7C+Firebase" alt="Typing animation" />
 </p>
 
-🎓 Tengo **18 años**, soy de **Bogotá, Colombia** y me apasiona el desarrollo de software.  
-💻 Mi objetivo es crecer como desarrollador y algún día ser **CEO de una gran compañía que innove y transforme el mundo**.  
+<p align="center">
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=SebastianPrado&style=for-the-badge&color=0d6efd&label=VISITAS" />
+</p>
 
 ---
 
 ## 🚀 Sobre mí
-- 🌱 Actualmente estoy aprendiendo y mejorando en **desarrollo web y móvil**  
-- 🔧 Trabajo con tecnologías modernas como **React, React Native y Firebase**, además de **JavaScript, Python y Node.js**  
-- 🤝 Me interesa colaborar en proyectos **open-source** y seguir aprendiendo con la comunidad tech  
-- 🎯 Sueño con construir productos que impacten positivamente en la vida de las personas  
+- 🎓 Tengo **18 años**, soy de **Bogotá, Colombia**.
+- 💻 Apasionado por **desarrollo web y móvil**.
+- 🔧 Trabajo con **React**, **React Native**, **Firebase**, **JavaScript**, **Python** y **Node.js**.
+- 🤝 Abierto a colaborar en proyectos **open-source** y con la **comunidad tech**.
+- 🎯 Sueño con liderar como **CEO** y construir productos de **alto impacto**.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
 ### 🔹 Lenguajes
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,python,mysql&perline=6" />
+</p>
 
 ### 🔹 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react&perline=6" />
+  <br/>
+  <sub>*Incluye React Native*</sub>
+</p>
 
 ### 🔹 Backend y Servicios
-![Node.js](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase&perline=6" />
+</p>
 
 ### 🔹 Diseño y Herramientas
-![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=figma&perline=6" />
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SebastianPrado&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianPrado&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SebastianPrado&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+
 
 ---
 
 ## 💼 LinkedIn
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-prado-6769b8302/)
-
----
-
-## 📊 GitHub Stats
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebastianPrado&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianPrado&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <a href="https://www.linkedin.com/in/sebastian-prado-6769b8302/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn icon"/>
+  </a>
 </p>
 
 ---
 
 ## 🌎 Conectemos
-- 📫 **Email:** [sebastianprado729@gmail.com](mailto:sebastianprado729@gmail.com)  
+- 📫 **Email:** [sebastianprado729@gmail.com](mailto:sebastianprado729@gmail.com)
 
 ---
 
-<!-- Footer con animación -->
+<!-- Footer con onda -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=120&section=footer&fontColor=ffffff&animation=twinkling)
 
 <p align="center">
 ✨ <em>"El mejor modo de predecir el futuro es programarlo."</em> ✨
 </p>
+
