@@ -1,8 +1,12 @@
 <!-- Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Sebastian%20Prado&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-# 👋  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=500&lines=%C2%A1Hola!+Soy+Sebastian+Prado)](https://git.io/typing-svg)
+<!-- Título animado con texto negro -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=000000&center=true&vCenter=true&width=700&background=00000000&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Sebastian+Prado"
+    alt="¡Hola! Soy Sebastian Prado (animación)" />
+</p>
 
 🎓 Tengo **18 años**, soy de **Bogotá, Colombia** y me apasiona el desarrollo de software.  
 💻 Mi objetivo es crecer como desarrollador y algún día ser **CEO de una gran compañía que innove y transforme el mundo**.  
