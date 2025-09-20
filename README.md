@@ -7,8 +7,12 @@
 </p>
 
 <p align="center">
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=SebastianPrado&style=for-the-badge&color=0d6efd&label=VISITAS" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SebastianPrado.SebastianPrado&left_text=VISITAS&left_color=0D6EFD&right_color=0D6EFD&right_text_color=FFFFFF&left_text_color=FFFFFF" alt="Visitas al perfil">
 </p>
+
+
+
+
 
 ---
 
@@ -32,7 +36,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react&perline=6" />
   <br/>
-  <sub>*Incluye React Native*</sub>
 </p>
 
 ### 🔹 Backend y Servicios
