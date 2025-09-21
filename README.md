@@ -10,10 +10,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SebastianPrado.SebastianPrado&left_text=VISITAS&left_color=0D6EFD&right_color=0D6EFD&right_text_color=FFFFFF&left_text_color=FFFFFF" alt="Visitas al perfil">
 </p>
 
-
-
-
-
 ---
 
 ## 🚀 Sobre mí
@@ -35,7 +31,6 @@
 ### 🔹 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react&perline=6" />
-  <br/>
 </p>
 
 ### 🔹 Backend y Servicios
@@ -52,22 +47,20 @@
 
 ## 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebastianPrado&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianPrado&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SebastianPrado&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianPrado&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SebastianPrado&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SebastianPrado&theme=tokyonight&hide_border=true" height="160" />
 </p>
-
-
 
 ---
 
 ## 💼 LinkedIn
 <p align="left">
   <a href="https://www.linkedin.com/in/sebastian-prado-6769b8302/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn icon"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn icon"/>
   </a>
 </p>
 
@@ -84,4 +77,3 @@
 <p align="center">
 ✨ <em>"El mejor modo de predecir el futuro es programarlo."</em> ✨
 </p>
-
